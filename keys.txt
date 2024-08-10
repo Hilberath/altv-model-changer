@@ -76,7 +76,7 @@ Ende (End): 0x23
 Bild hoch (Page Up): 0x21
 Bild runter (Page Down): 0x22
 
-NUmpad Keys // Nummerntasten des Nummernblocks
+Numpad Keys // Nummerntasten des Nummernblocks
 Numpad 0: 0x60
 Numpad 1: 0x61
 Numpad 2: 0x62
