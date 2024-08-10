@@ -19,7 +19,7 @@ A tool to change your Model on AltV server.
 ### Functions
 
 - [x] Switch model
-- [x] Added all models from the AltV list (AltV Model List)
+- [x] Added all models from the AltV list ([AltV Model Liste](https://docs.altv.mp/gta/articles/ped/models.html))
 - [x] Added images for the models
 - [ ] Adjust all model images
 - [ ] Retrieve model names from the database
